@@ -1,0 +1,8 @@
+Database Name: P1_8-CMS.txt
+Authors: Irfan, Uwais, Nabbhil, Shamik, Wen Yuan
+
+Table Name: StudentRecords
+ID      Name                Programme               Marks
+1478523 Dwayne Johnson      Mechanical Engineering  81.0 
+1234568 Mary                Food Science            78.0 
+1234567 John Lee            Software Engineering    89.0 
